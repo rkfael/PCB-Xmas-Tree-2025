@@ -1,6 +1,4 @@
-# PCB-Xmas-Tree-2025
-
-🌲 Projeto "Xmas Tree LED Fade"
+<h1 align="center"> 🌲 Projeto "Xmas Tree LED Fade" </h1>
 
 Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciantes, makers e entusiastas. Trata-se de uma árvore de Natal com LEDs que acendem com efeito fade in/out, controlados por um circuito simples com componentes discretos e de fácil montagem.
 
