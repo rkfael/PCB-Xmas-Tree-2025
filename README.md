@@ -6,20 +6,21 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 
 ## ✨ Funcionalidades
 
-- 17 LEDs com brilho suave em efeito "fade"  
+- 17 LEDs com brilho suave em efeito *fade*  
 - Circuito baseado no temporizador **NE555** e transistores **MOSFET 2N7000**  
 - Alimentação via conector **USB (5V)**  
-- Controle ajustável do efeito fade por **trimpot**  
+- Controle ajustável do efeito *fade* por **trimpot dedicado (RC)**  
+- Controle da **frequência de oscilação** via dois **trimpots (RA e RB)**  
 - **Chave HH** para ligar e desligar o sistema  
 - Compatível com montagem **PTH** (fácil de soldar)  
-- **PCB dividida em base + árvore encaixável**, ideal para kits DIY
+- **PCB dividida em base + árvore encaixável**, ideal para kits **DIY**
 
 ---
 
 ## 🧩 Estrutura do Projeto
 
 - **Base PCB**: contém o controle do circuito (555, transistores, trimpots, chave, conector USB)  
-- **PCB da Árvore**: contém os LEDs e resistores, encaixada na base com conexão direta
+- **PCB da Árvore**: contém os LEDs e resistores, encaixada na base com conexão soldada na base
 
 ---
 
