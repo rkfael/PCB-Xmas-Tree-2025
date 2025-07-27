@@ -5,7 +5,7 @@
 
 Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciantes, makers e entusiastas. Trata-se de uma árvore de Natal com LEDs que acendem com efeito *fade in/out*, controlados por um circuito simples com componentes discretos e de fácil montagem. A alimentação é feita via USB, e o projeto foi pensado com montagem PTH (fácil de soldar), dividido em base + árvore encaixável — ideal para kits DIY. O projeto ainda permite controle do efeito de fade e da frequência de oscilação, valorizando tanto a funcionalidade quanto a estética com uso de *PCB art*.
 
-Este projeto foi desenvolvido inteiramente na plataforma [EasyEDA](https://easyeda.com/editor#project_id=c376b69695014169848152266c35decf), que oferece uma interface intuitiva para criação de esquemáticos, simulações, design de PCB e visualização 3D — ideal tanto para iniciantes quanto para profissionais.
+Este projeto foi desenvolvido inteiramente na plataforma [EasyEDA](https://oshwlab.com/rkfael/pcb-xmas-tree-2025), que oferece uma interface intuitiva para criação de esquemáticos, simulações, design de PCB e visualização 3D — ideal tanto para iniciantes quanto para profissionais.
 
 As PCBs serão fabricadas pela [JLCPCB](https://jlcpcb.com/IRG), empresa reconhecida por sua **alta qualidade de produção**, cortes precisos, acabamento profissional e ótimo custo-benefício.
 
