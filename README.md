@@ -27,7 +27,8 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 ## 📷 Imagens
 
 (Imagens 3D geradas no EasyEDA)  
-*Aqui você pode inserir imagens renderizadas e fotos reais se tiver.*
+
+![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%201.png)
 
 ---
 
