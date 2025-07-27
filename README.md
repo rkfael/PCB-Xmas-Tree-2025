@@ -57,9 +57,9 @@ Figura 7 - Topo da Árvore de Natal
 
 Figura 8 - Base da Árvore de Natal
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%208.png" alt="showcase" width="500"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%208.png" alt="showcase" width="1500"/>
 </p>
-<p align="center"><b>Figura 8 - Topo da Árvore de Natal</b></p>
+<p align="center"><b>Figura 8 - Base da Árvore de Natal</b></p>
 
 ---
 
