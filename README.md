@@ -26,9 +26,8 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 
 ## 📷 Imagens
 
-(Imagens geradas no EasyEDA)
-
-> ⚠️ **Nota:** As imagens reais do projeto serão adicionadas após a fabricação e montagem das placas.
+> ⚠️ **Nota:** As imagens apresentadas abaixo foram geradas pelo visualizador de arquivos 3D do **EasyEDA**.  
+> As imagens reais do projeto serão adicionadas após a fabricação e montagem das placas.
 > 
 > Este projeto foi inteiramente desenvolvido na plataforma [EasyEDA](https://easyeda.com), que oferece uma interface intuitiva para esquemáticos, simulações e design de PCB com visualização 3D — ideal tanto para iniciantes quanto para profissionais.
 > 
