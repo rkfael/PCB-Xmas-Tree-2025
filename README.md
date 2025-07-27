@@ -116,6 +116,13 @@ O diagrama abaixo apresenta todos os componentes do circuito, incluindo o **NE55
 
 ---
 
+## 🔗 Projeto completo disponível em:
+
+👉 [https://oshwlab.com/rkfael/pcb-xmas-tree-2025)
+
+Inclui esquemático, layout da placa e arquivos de fabricação.
+
+
 ## 📲 Me acompanhe
 
 Quer ver mais projetos como este?  
