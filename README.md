@@ -45,17 +45,17 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 <p align="center"><b>Figura 3 - Base da Árvore de Natal / Visualização 3D</b></p>
 
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%204.png" alt="showcase" width="1000"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%204.png" alt="showcase" width="500"/>
 </p>
 <p align="center"><b>Figura 4 - Topo da Árvore de Natal / TopLayer</b></p>
 
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%205.png" alt="showcase" width="1000"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%205.png" alt="showcase" width="500"/>
 </p>
 <p align="center"><b>Figura 5 - Topo da Árvore de Natal / BottomLayer</b></p>
 
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%206.png" alt="showcase" width="1000"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%206.png" alt="showcase" width="500"/>
 </p>
 <p align="center"><b>Figura 6 - Topo da Árvore de Natal / Visualização 3D</b></p>
 
