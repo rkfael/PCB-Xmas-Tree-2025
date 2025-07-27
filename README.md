@@ -34,11 +34,29 @@ Figura 1 - Base da Árvore de Natal / TopLayer
 Figura 2 - Base da Árvore de Natal / BottomLayer
 ![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%202.png)
 
+Figura 3 - Base da Árvore de Natal / Visualização 3D
+![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%203.png)
+
+Figura 4 - Topo da Árvore de Natal / TopLayer
+![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%204.png)
+
+Figura 5 - Topo da Árvore de Natal / BottomLayer
+![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%205.png)
+
+Figura 6 - Topo da Árvore de Natal / Visualização 3D
+![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%206.png)
+
 ---
 
 ## 📐 Diagrama Esquemático
 
 (Diagrama exportado do EasyEDA com todos os componentes)
+
+Figura 7 - Base da Árvore de Natal
+![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%207.png)
+
+Figura 8 - Topo da Árvore de Natal
+![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%208.png)
 
 ---
 
