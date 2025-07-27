@@ -26,7 +26,10 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 
 ## 📷 Imagens
 
-(Imagens geradas no EasyEDA)  
+(Imagens geradas no EasyEDA)
+
+> ⚠️ **Nota:** As imagens reais do projeto serão adicionadas após a fabricação e montagem das placas.
+> As PCBs serão produzidas pela [JLCPCB](https://jlcpcb.com/IRG), conhecida por sua **alta qualidade de fabricação**, cortes precisos, acabamento profissional e excelente custo-benefício para prototipagem e produção em pequena e larga escala.
 
 <!-- Figura 1 -->
 <p align="center">
