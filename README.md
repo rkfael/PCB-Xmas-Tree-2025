@@ -28,25 +28,36 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 
 (Imagens geradas no EasyEDA)  
 
+<!-- Figura 1 -->
 <p align="center">
   <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%201.png" alt="showcase" width="1500"/>
 </p>
 <p align="center"><b>Figura 1 - Base da Árvore de Natal / TopLayer</b></p>
 
-Figura 2 - Base da Árvore de Natal / BottomLayer
-![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%202.png)
+<p align="center">
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%202.png" alt="showcase" width="1500"/>
+</p>
+<p align="center"><b>Figura 2 - Base da Árvore de Natal / BottomLayer / TopLayer</b></p>
 
-Figura 3 - Base da Árvore de Natal / Visualização 3D
-![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%203.png)
+<p align="center">
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%203.png" alt="showcase" width="1500"/>
+</p>
+<p align="center"><b>Figura 3 - Base da Árvore de Natal / Visualização 3D</b></p>
 
-Figura 4 - Topo da Árvore de Natal / TopLayer
-![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%204.png)
+<p align="center">
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%204.png" alt="showcase" width="1500"/>
+</p>
+<p align="center"><b>Figura 4 - Topo da Árvore de Natal / TopLayer</b></p>
 
-Figura 5 - Topo da Árvore de Natal / BottomLayer
-![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%205.png)
+<p align="center">
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%205.png" alt="showcase" width="1500"/>
+</p>
+<p align="center"><b>Figura 5 - Topo da Árvore de Natal / BottomLayer</b></p>
 
-Figura 6 - Topo da Árvore de Natal / Visualização 3D
-![showcase](https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%206.png)
+<p align="center">
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%206.png" alt="showcase" width="1500"/>
+</p>
+<p align="center"><b>Figura 6 - Topo da Árvore de Natal / Visualização 3D</b></p>
 
 ---
 
