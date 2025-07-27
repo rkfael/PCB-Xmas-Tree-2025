@@ -26,7 +26,7 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 
 ## 📷 Imagens
 
-> ⚠️ **Nota:** As imagens apresentadas abaixo foram geradas pelo visualizador de arquivos 3D do **EasyEDA**.  
+> ⚠️ **Nota:** As imagens apresentadas abaixo foram geradas pelo visualizador de arquivos do **EasyEDA**.  
 > As imagens reais do projeto serão adicionadas após a fabricação e montagem das placas.
 > 
 > Este projeto foi inteiramente desenvolvido na plataforma [EasyEDA](https://easyeda.com), que oferece uma interface intuitiva para esquemáticos, simulações e design de PCB com visualização 3D — ideal tanto para iniciantes quanto para profissionais.
@@ -72,7 +72,7 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 (Diagrama exportado do EasyEDA com todos os componentes)
 
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%208.png" alt="showcase" width="1500"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%207.png" alt="showcase" width="1500"/>
 </p>
 <p align="center"><b>Figura 7 - Topo da Árvore de Natal</b></p>
 
