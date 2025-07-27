@@ -87,8 +87,10 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 
 1. Solde todos os componentes na base seguindo o layout da PCB  
 2. Solde os LEDs e resistores na PCB da árvore  
-3. Encaixe a PCB da árvore no rasgo da base  
+3. Encaixe e solde a PCB da árvore no rasgo da base  
 4. Conecte via cabo USB (5V) e ligue pela chave HH  
+
+💡 *Dica: comece a soldagem pelos componentes menores para facilitar a montagem e evitar dificuldades de acesso.*
 
 ---
 
@@ -102,6 +104,7 @@ Este é um projeto eletrônico decorativo com tema natalino, ideal para iniciant
 
 ## 🎯 Objetivos do projeto
 
-- Praticar conceitos de eletrônica básica: transistores, resistores, capacitores, fade  
+- Praticar conceitos de eletrônica básica: transistores, resistores, capacitores, fade
+- Explorar técnicas de ***PCB art***, utilizando o design da placa como parte estética do projeto   
 - Criar algo funcional, bonito e vendável  
 - Estimular o espírito *faça você mesmo*
