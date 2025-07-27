@@ -73,7 +73,7 @@ As PCBs serão fabricadas pela [JLCPCB](https://jlcpcb.com/IRG), empresa reconhe
 
 ## 📐 Diagrama Esquemático
 
-(Diagrama exportado do EasyEDA com todos os componentes)
+O diagrama abaixo apresenta todos os componentes do circuito, incluindo o **NE555**, **MOSFETs**, resistores, trimpots, chave HH e conexões para os **LEDs** e alimentação via **USB 5V**. Ele representa a lógica de funcionamento do efeito *fade in/out*, além da separação entre a **base PCB** e a **PCB da árvore**.
 
 <p align="center">
   <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%207.png" alt="showcase" width="1500"/>
@@ -102,8 +102,9 @@ As PCBs serão fabricadas pela [JLCPCB](https://jlcpcb.com/IRG), empresa reconhe
 
 - Como decoração de Natal personalizada  
 - Como kit educacional para introdução à eletrônica  
-- Como item de venda para datas comemorativas  
-
+- Como presente criativo para amigos ou familiares  
+- Como item para venda em feiras maker ou eventos sazonais
+  
 ---
 
 ## 🎯 Objetivos do projeto
@@ -112,3 +113,10 @@ As PCBs serão fabricadas pela [JLCPCB](https://jlcpcb.com/IRG), empresa reconhe
 - Explorar técnicas de ***PCB art***, utilizando o design da placa como parte estética do projeto   
 - Criar algo funcional, bonito e vendável  
 - Estimular o espírito *faça você mesmo*
+
+---
+
+## 📲 Me acompanhe
+
+Quer ver mais projetos como este?  
+Siga meu perfil no Instagram: [@rkfaelpcb](https://instagram.com/rkfaelpcb)
