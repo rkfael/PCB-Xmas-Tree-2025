@@ -37,11 +37,6 @@ As PCBs serão fabricadas pela [JLCPCB](https://jlcpcb.com/IRG), empresa reconhe
 
 > ⚠️ **Nota:** As imagens apresentadas abaixo foram geradas pelo visualizador de arquivos do **EasyEDA**.  
 > As imagens reais do projeto serão adicionadas após a fabricação e montagem das placas.
-> 
-> Este projeto foi inteiramente desenvolvido na plataforma [EasyEDA](https://easyeda.com), que oferece uma interface intuitiva para esquemáticos, simulações e design de PCB com visualização 3D — ideal tanto para iniciantes quanto para profissionais.
-> 
-> As PCBs serão produzidas pela [JLCPCB](https://jlcpcb.com/IRG), reconhecida por sua **alta qualidade de fabricação**, cortes precisos, acabamento profissional e excelente custo-benefício para prototipagem e produção.
-
 
 <!-- Figura 1 -->
 <p align="center">
